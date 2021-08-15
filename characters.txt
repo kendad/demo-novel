@@ -1,4 +1,0 @@
-=========
-Char File
-=========
-Hi we in chars file
